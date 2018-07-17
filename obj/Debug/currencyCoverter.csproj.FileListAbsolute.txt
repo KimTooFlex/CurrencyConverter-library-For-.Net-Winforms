@@ -1,0 +1,10 @@
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\bin\Debug\currencyCoverter.dll
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\bin\Debug\currencyCoverter.pdb
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\obj\Debug\ktf.CurrencyConverter.resources
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\obj\Debug\currencyCoverter.csproj.GenerateResource.Cache
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\obj\Debug\currencyCoverter.csproj.CoreCompileInputs.cache
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\obj\Debug\currencyCoverter.dll
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\obj\Debug\currencyCoverter.pdb
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\bin\Debug\Kuto.dll
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\bin\Debug\Kuto.pdb
+C:\Users\KIM TOO FLEX\source\repos\currencyCoverter\obj\Debug\currencyCoverter.csprojResolveAssemblyReference.cache
